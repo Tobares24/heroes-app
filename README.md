@@ -20,7 +20,7 @@ Welcome to my learning journey! 🚀 This project is dedicated to mastering Reac
 2. **Go to the Project Directory:**
 
    ```bash
-   cd 07-heroes-SPA
+   cd heroes-app
    ```
 
 3. **Install Dependencies:**
